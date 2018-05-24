@@ -6,4 +6,4 @@ before_script:
 script:
   - validate-ddf --silent
 notifications:
-  webhooks: http://8feb7add.ngrok.io/travis
+  webhooks: http://aca7bebf.ngrok.io/travis
